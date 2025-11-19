@@ -1,0 +1,29 @@
+[package]
+name = "dispatcher"
+version = "0.1.0"
+edition = "2024"
+description = "智能配送分单引擎"
+license = "MIT"
+
+# 定义两个可执行文件
+[[bin]]
+name = "dispatcher"
+path = "src/main.rs"
+
+[[bin]]
+name = "server"
+path = "src/server.rs"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = "0.4"
+uuid = { version = "1.0", features = ["v4", "serde"] }
+thiserror = "1.0"
+
+# Web 服务器依赖
+actix-web = "4.4"
+actix-cors = "0.7"
+tokio = { version = "1.0", features = ["full"] }
+
+[dev-dependencies]

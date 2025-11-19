@@ -1,0 +1,12 @@
+# compiled binary files
+target/
+
+# dependency files
+Cargo.lock
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store*
