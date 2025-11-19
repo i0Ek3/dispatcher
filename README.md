@@ -1,8 +1,14 @@
-# Dispatcher
+# dispatcher
 
 > Intelligent delivery order distribution engine.
 
 A highly abstract and extensible delivery order distribution engine Rust library, specially designed for delivery scenarios such as takeout, express delivery, and taxi hailing, and supports a variety of intelligent order dispatch strategies.
+
+
+
+## Architecture
+
+![](https://github.com/i0Ek3/dispatcher/blob/main/assets/images/arch.jpg)
 
 
 

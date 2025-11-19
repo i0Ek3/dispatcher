@@ -1,0 +1,115 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="WHwMq-NX9p3nSrp_yEwn">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="410" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeWidth=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="820" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-8" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="sourcePoint" />
+            <mxPoint x="670" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-10" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;DispatchEngine (Dispatch Engine)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="204" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-11" value="&lt;ul style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px 0px 0px 20px; list-style: none; overflow-anchor: auto; font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;auto-hide-last-sibling-br&quot;&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; list-style-type: circle; overflow-anchor: auto;&quot;&gt;Manage Driver Pool&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; list-style-type: circle; overflow-anchor: auto;&quot;&gt;Execute Dispatch Logic&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; list-style-type: circle; overflow-anchor: auto;&quot;&gt;Coordinate Strategies and Rules&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; list-style-type: circle; overflow-anchor: auto;&quot;&gt;Real-time Position Update&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontColor=default;whiteSpace=wrap;fillColor=default;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="280" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-13" value="&lt;ul style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px 0px 0px 20px; list-style: none; overflow-anchor: auto; color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;auto-hide-last-sibling-br&quot;&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Nearest&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Balanced&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Scoring&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Matching&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="450" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-14" value="&lt;ul style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px 0px 0px 20px; list-style: none; overflow-anchor: auto; color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;auto-hide-last-sibling-br&quot;&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Capacity&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Distance&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Vehicle Type&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Scoring&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="450" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-15" value="&lt;ul style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px 0px 0px 20px; list-style: none; overflow-anchor: auto; color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;auto-hide-last-sibling-br&quot;&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Driver Management&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Position Tracking&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Load Statistics&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="680" width="180" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-16" value="&lt;ul style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 0px; padding: 0px 0px 0px 20px; list-style: none; overflow-anchor: auto; color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;auto-hide-last-sibling-br&quot;&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Basic Information&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Vehicle Type&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Current Position&lt;/li&gt;&lt;li style=&quot;outline: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); border: 0px solid; margin: 8px 0px; padding: 0px; line-height: 24px; color: rgb(0, 0, 0); list-style-type: circle; overflow-anchor: auto;&quot;&gt;Scoring/Order Quantity&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="865" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="670" as="sourcePoint" />
+            <mxPoint x="670" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-19" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="670" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-20" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="480" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-21" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="860" as="sourcePoint" />
+            <mxPoint x="670" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-22" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Strategy&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-23" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Rules&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-24" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;DriverPool (Driver Pool)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="634" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-25" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Driver&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="824" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504.5" y="780" as="sourcePoint" />
+            <mxPoint x="504.5" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="590" as="sourcePoint" />
+            <mxPoint x="609" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="590" as="sourcePoint" />
+            <mxPoint x="425" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="370" as="sourcePoint" />
+            <mxPoint x="609" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XXDkIK9gRLCmomvfvjLY-32" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="370" as="sourcePoint" />
+            <mxPoint x="424" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
