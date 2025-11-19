@@ -8,5 +8,8 @@ Cargo.lock
 .vscode/
 *.code-workspace
 
+# drawio
+*.bkp
+
 # macOS
 .DS_Store*
